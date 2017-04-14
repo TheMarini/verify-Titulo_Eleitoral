@@ -1,0 +1,7 @@
+C:\Users\Bruno\AppData\Local\Temporary Projects\prj27757\bin\Release\prj27757.exe
+C:\Users\Bruno\AppData\Local\Temporary Projects\prj27757\bin\Release\prj27757.pdb
+C:\Users\Bruno\AppData\Local\Temporary Projects\prj27757\obj\x86\Release\prj27757.frm27757.resources
+C:\Users\Bruno\AppData\Local\Temporary Projects\prj27757\obj\x86\Release\prj27757.Properties.Resources.resources
+C:\Users\Bruno\AppData\Local\Temporary Projects\prj27757\obj\x86\Release\prj27757.csproj.GenerateResource.Cache
+C:\Users\Bruno\AppData\Local\Temporary Projects\prj27757\obj\x86\Release\prj27757.exe
+C:\Users\Bruno\AppData\Local\Temporary Projects\prj27757\obj\x86\Release\prj27757.pdb
